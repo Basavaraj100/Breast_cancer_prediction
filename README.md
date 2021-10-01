@@ -22,7 +22,7 @@ i)catboost<br>
 
 These all models we fitted and check for the accuracy, based on accuracy performance we select Logistic regression as the final model
 
-## Final model performance
+## Final model(Logistic Regression) performance
 
 - Confusiion matrix
 ![image](https://github.com/Basavaraj100/Breast_cancer_prediction/blob/main/images/confussion_matrix.PNG)
