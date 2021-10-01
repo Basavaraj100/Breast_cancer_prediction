@@ -25,8 +25,8 @@ These all models we fitted and check for the accuracy, based on accuracy perform
 ## Final model performance
 
 - Confusiion matrix
-![image]()
+![image](https://github.com/Basavaraj100/Breast_cancer_prediction/blob/main/images/confussion_matrix.PNG)
 
 - Classification report
 
-![image]()
+![image](https://github.com/Basavaraj100/Breast_cancer_prediction/blob/main/images/classification_report.PNG)
