@@ -25,6 +25,7 @@ These all models we fitted and check for the accuracy, based on accuracy perform
 ## Final model(Logistic Regression) performance
 
 - Confusiion matrix
+
 ![image](https://github.com/Basavaraj100/Breast_cancer_prediction/blob/main/images/confussion_matrix.PNG)
 
 - Classification report
